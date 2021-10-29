@@ -1,0 +1,5 @@
+conda install numpy
+conda install scipy
+conda install pandas
+pip install -U scikit-learn
+pip install tensorflow
